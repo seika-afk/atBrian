@@ -29,3 +29,7 @@ X_AUTH_TOKEN
 
 ### Note
 You can vary classification and replies in `jev_call.py` file 
+
+
+### Update :
+1.0 : Added `run.sh` ,can run it to start immediate
