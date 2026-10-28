@@ -1,4 +1,4 @@
-atBrian : X/Twitter Bot that replies Jev model
+atBrian : X/Twitter Bot that replies with local  Jev model
 
 ## About
 - Classifies Text into 4 categories
